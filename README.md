@@ -47,6 +47,9 @@ macOS CLI tool that diagnoses whether slowdowns are caused by weak Wi-Fi or back
 ### [Laravel-TailwindCSS-Crud](https://github.com/bybyKD/Laravel-TailwindCSS-Crud)
 A CRUD application built with Laravel and TailwindCSS.
 
+### [AlumniApp](https://github.com/bybyKD/AlumniApp)
+Alumni management system built with TypeScript and React — search, filter, and explore alumni data with AI-powered assistance.
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bybyKD&color=blueviolet&style=flat-square&label=Profile+Views)
